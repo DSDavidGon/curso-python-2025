@@ -1,8 +1,6 @@
 # %%
 
 #Faça um programa que conte quantas vezes a letra “a” aparece em uma palavra
-res
-for a in string:
     
     
 # %%
